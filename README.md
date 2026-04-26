@@ -10,7 +10,7 @@
 
 ### 📈 正在记录
 * **Study_MySQL**：关于数据库底层机制的系统笔记。
-* **Study_recording**：日常学习心得与研究进度的琐碎记录。
+* **Study_Recording**：日常学习心得与研究进度的琐碎记录。
 
 ---
 *"Be Patient and Keep Going"*
